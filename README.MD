@@ -1,6 +1,6 @@
 # Hi, I'm Luma 👋
 
-I love working on projects involving a certain block game. I work on [Xenyria](https://xenyria.net) in my free time.
+I love working on projects involving a certain block game. I'm the Founder and Lead Developer behind [Xenyria](https://xenyria.net).
 
 
 # Languages & Tech
@@ -18,7 +18,10 @@ Also, I use arch btw!
 # Wakatime Stats :3
 [![wakatime](https://wakatime.com/badge/user/018b9cf7-36ed-4420-b5da-b8505ebd481f.svg)](https://wakatime.com/@018b9cf7-36ed-4420-b5da-b8505ebd481f)
 
-(coming soon)
+<img
+  src="https://github.com/lumanyx/lumanyx/blob/main/images/stat.svg"
+  alt="Lumanyx WakaTime Activity"
+/>
 
 
 # How to get in touch
