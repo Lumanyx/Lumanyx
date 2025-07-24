@@ -24,8 +24,6 @@ I love working on projects involving a certain block game. I'm the Founder and L
 ![Next Cloud](https://img.shields.io/badge/Next%20Cloud-0B94DE?style=for-the-badge&logo=nextcloud&logoColor=white)
 
 
-Also, I use arch btw!
-
 # Wakatime Stats :3
 [![wakatime](https://wakatime.com/badge/user/018b9cf7-36ed-4420-b5da-b8505ebd481f.svg)](https://wakatime.com/@018b9cf7-36ed-4420-b5da-b8505ebd481f)
 
