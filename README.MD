@@ -1,5 +1,6 @@
 # Hi, I'm Luma 👋
-[![wakatime](https://wakatime.com/badge/user/018b9cf7-36ed-4420-b5da-b8505ebd481f.svg)](https://wakatime.com/@018b9cf7-36ed-4420-b5da-b8505ebd481f)
+
+I love working on projects involving a certain block game. I work on [Xenyria](https://xenyria.net) in my free time.
 
 
 # Languages & Tech
@@ -15,6 +16,7 @@
 Also, I use arch btw!
 
 # Wakatime Stats :3
+[![wakatime](https://wakatime.com/badge/user/018b9cf7-36ed-4420-b5da-b8505ebd481f.svg)](https://wakatime.com/@018b9cf7-36ed-4420-b5da-b8505ebd481f)
 
 (coming soon)
 
