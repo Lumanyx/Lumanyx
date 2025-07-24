@@ -1,7 +1,7 @@
 # Hi, I'm Luma 👋
 
-I love working on projects involving a certain block game. I'm the Founder and Lead Developer behind [Xenyria](https://xenyria.net).
-
+I'm the Founder and Lead Developer behind [Xenyria](https://xenyria.net) - Breaking the boundaries of Minecraft: Java Edition, creating unique & fun experiences. I mostly develop Java/Kotlin applications.
+I also [stream](https://twitch.tv/lumanyx_uwu) once every blue moon.
 
 # Languages & Tech
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
