@@ -1,7 +1,8 @@
 # Hi, I'm Luma 👋
 
-I'm the Founder and Lead Developer behind [Xenyria](https://xenyria.net) - Breaking the boundaries of Minecraft: Java Edition, creating unique & fun experiences. I mostly develop Java/Kotlin applications.
+I'm the Founder and Lead Developer behind [Xenyria](https://xenyria.net) - breaking the boundaries of Minecraft: Java Edition to create unique and fun experiences. I mostly develop Java/Kotlin applications, but I also write TypeScript and C++ sometimes.
 I also [stream](https://twitch.tv/lumanyx_uwu) once every blue moon.
+
 
 # Languages & Tech
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
@@ -24,6 +25,7 @@ I also [stream](https://twitch.tv/lumanyx_uwu) once every blue moon.
 ![Next Cloud](https://img.shields.io/badge/Next%20Cloud-0B94DE?style=for-the-badge&logo=nextcloud&logoColor=white)
 
 
+
 # Wakatime Stats :3
 [![wakatime](https://wakatime.com/badge/user/018b9cf7-36ed-4420-b5da-b8505ebd481f.svg)](https://wakatime.com/@018b9cf7-36ed-4420-b5da-b8505ebd481f)
 
@@ -31,6 +33,7 @@ I also [stream](https://twitch.tv/lumanyx_uwu) once every blue moon.
   src="https://github.com/lumanyx/lumanyx/blob/main/images/stat.svg"
   alt="Lumanyx WakaTime Activity"
 />
+
 
 
 # How to get in touch
