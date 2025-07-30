@@ -3,6 +3,7 @@
 I'm the Founder and Lead Developer behind [Xenyria](https://xenyria.net) - breaking the boundaries of Minecraft: Java Edition to create unique and fun experiences. I mostly develop Java/Kotlin applications, but I also write TypeScript and C++ sometimes.
 I also [stream](https://twitch.tv/lumanyx_uwu) once every blue moon.
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/1353395572014317722)](https://discord.com/users/1353395572014317722)
 
 # Languages & Tech
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
