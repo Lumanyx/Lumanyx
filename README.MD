@@ -39,4 +39,4 @@ I also [stream](https://twitch.tv/lumanyx_uwu) once every blue moon.
 # How to get in touch
 [E-Mail](mailto://me@luma.fm)
 [Discord](https://discord.com/users/1353395572014317722)
-[Twitter](https://x.com/kev_uwu_)
+[Twitter](https://x.com/lumaa_uwu)
